@@ -8,6 +8,7 @@ class Person
     @name
   end
   
+  # job getter and setter methods
   def job=(job)
     @job = job
   end
